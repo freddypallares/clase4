@@ -1,0 +1,27 @@
+/* estilos desktops*/
+
+@media screen and (min-width: 768px){
+	body{
+		border: 5px solid red;
+		/*position: relative;
+		overflow: auto;*/
+	}
+
+	#contenedor{
+		margin: 0 auto;
+		max-width: 1200px;
+	}
+
+	section{
+		
+		display: inline-block;
+		margin-right;
+		width:68%;
+	}
+
+	aside{
+		display:inline-block;
+		vertical-align: top;
+		width: 30%
+	}
+}
